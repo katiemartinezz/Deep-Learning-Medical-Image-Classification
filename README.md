@@ -6,6 +6,6 @@ However, beyond the classification task, we focused on understanding the intrica
 
 We created two deep-learning models. The first model (Model 1) follows an AlexNet-like structure, while the second model (Model 2) explores a more experimental design with varying depth and hyperparameters. Both models follow a similar setup, but the model itself is different.
 
-To view these projects use services like CoLab
+To view these projects use services like CoLab: simply download the .ipynb file and run on CoLab
 
 
